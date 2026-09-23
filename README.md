@@ -3,4 +3,5 @@ This repository is dedicated to the CS 82A: Introduction to Data Science Course 
 <p align = 'center'>
   <a href= 'https://github.com/miyahjordan/cs82a-portfolio/tree/main/Module%202'>1. Module 2: Python Foundations</a>
   <br><a href= 'Module 3'>2. Module 3: Data: Types, Storage, and Cleaning</a>
+  <br><a href= 'Module 4'>2. Module 4: Statistics that Answer Questions</a>
 </p>
