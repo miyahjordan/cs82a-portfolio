@@ -7,4 +7,5 @@ This repository is dedicated to the CS 82A: Introduction to Data Science Course 
   <br><a href= 'Module 5'>4. Module 5: Visualization and Statistical Analysis in Python</a>
   <br><a href= 'Module 5'>4. Module 5: Visualization and Statistical Analysis in Python</a>
   <br><a href= 'Module 6'>4. Module 6: SQL and Databases</a>
+  <br><a href= 'Module 7'>4. Module 7: Machine Learning: Your First Predictive Models</a>
 </p>
