@@ -9,5 +9,5 @@ This repository is dedicated to the CS 82A: Introduction to Data Science Course 
   <br><a href= 'Module 6'>6. Module 6: SQL and Databases</a>
   <br><a href= 'Module 7'>7. Module 7: Machine Learning: Your First Predictive Models</a>
   <br><a href= 'Module 9'>8. Module 9: Cloud Computing, Careers, and Your Portfolio</a>
-  <br><a href= 'Final Project'>9. Movies or TV Shows? What do customers prefer and how content changes over time. </a>
+  <br><a href= 'Final Project'>9. Final Project: Movies or TV Shows? What do customers prefer and how content changes over time. </a>
 </p>
