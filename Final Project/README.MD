@@ -7,7 +7,7 @@ Netflix is a popular media and video streaming platform. The platform is home to
 
 <h3 align= 'center'> Data Dictionary </h3>
 Listings of all the movies and TV shows available on Netflix as of 2021. Created by Shivam Bansai on Kaggle (https://www.kaggle.com/datasets/shivamb/netflix-shows).
-<p align = 'center'> <br> Columns (12):
+<br> Columns (12):
 <br> show id - Unique ID for every Movie / TV Show
 
 <br> type - Identifier - A Movie or TV Show
@@ -30,7 +30,7 @@ Listings of all the movies and TV shows available on Netflix as of 2021. Created
 
 <br> listed in - Genre
 
-<br> description - The summary description</p>
+<br> description - The summary description
 
 <h3 align= 'center'> Cleaning Steps </h3>
 
