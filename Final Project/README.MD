@@ -1,4 +1,4 @@
-<p align = 'center'> <b> <h1> Netflix Movie and Duration Over Time </h1> </b> </p>
+<h1 align = 'center'> <b> Netflix Movie and Duration Over Time </b> </h1>
 
 Problem Statement
 Netflix is home to a variety of entertainment options, movies, TV Shows, and even video games. For this project, I wanted to primarily focus on the TV Shows and Movies offered by this streaming platform. In particular, I wanted to see:
