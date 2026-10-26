@@ -3,9 +3,9 @@
 <h2 align= 'center'> Table of Contents </h2>
 <p align= 'center'> 
 1. Problem Statement
-2. Data Dictionary
-3. Cleaning Steps
-4. Overall Findings
+<br> 2. Data Dictionary
+<br> 3. Cleaning Steps
+<br> 4. Overall Findings
 </p>
 
 Problem Statement
