@@ -42,7 +42,7 @@ Listings of all the movies and TV shows available on Netflix as of 2021. Created
   <br> I added month_num_added (the month added as a number), month_name_added (the month in string format), and year_added columns to have an easier breakdown of change over time and to have a more in depth analysis if needed.
 
 <h3 align= 'center'> Findings </h3>
+
 <br> 1. Movies are the most dominant type on the platform (69%).
   <br> From the 8790 rows of cleaned data I was able to determine 6,131 movies were listed on Netflix while only 2,676 TV shows were available on the platform. This means that movies make up approximately 69.62% of entertainment options on Netflix while TV shows only make up approximately 30.38%. 
-  
-  <br> <img align = 'center' src='https://github.com/miyahjordan/cs82a-portfolio/blob/main/Final%20Project/Visualizations/Movie%20v.%20TV%20shows%20Composition.png?raw=true' />
+  <img align = 'center' src='https://github.com/miyahjordan/cs82a-portfolio/blob/main/Final%20Project/Visualizations/Movie%20v.%20TV%20shows%20Composition.png?raw=true' />
