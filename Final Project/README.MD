@@ -1,9 +1,9 @@
 <h1 align = 'center'> <b> Netflix Movie & TV Show Duration Over Time </b> </h1>
-<p align = 'center>Table of Contents
+Table of Contents
 1. Problem Statement
 2. Data Dictionary
 3. Cleaning Steps
-4. Overall Findings <\p>
+4. Overall Findings
 
 
 Problem Statement
