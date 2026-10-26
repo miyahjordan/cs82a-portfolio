@@ -3,8 +3,9 @@
 1. Problem Statement
 2. Data Dictionary
 3. Cleaning Steps
-4. Overall Findings
-<\p>
+4. Overall Findings <\p>
+
+
 Problem Statement
 Netflix is home to a variety of entertainment options, movies, TV Shows, and even video games. For this project, I wanted to primarily focus on the TV Shows and Movies offered by this streaming platform. In particular, I wanted to see:
 1. The distribution of movies and TV Shows. Which type of entertainment dominates the platform and by how much?
