@@ -8,7 +8,7 @@
 <br> 4. Overall Findings
 </p>
 
-<h3 align= 'center'> Problem Statement </h3>
+<h3 align= 'center'> <a href='https://github.com/miyahjordan/cs82a-portfolio/blob/main/Final%20Project/README.MD#-problem-statement-'> Problem Statement </h3></a>
 <br> Netflix is home to a variety of entertainment options, movies, TV Shows, and even video games. For this project, I wanted to primarily focus on the TV Shows and Movies offered by this streaming platform. In particular, I wanted to see:
 1. The distribution of movies and TV Shows. Which type of entertainment dominates the platform and by how much?
 2. How the duration of movies and TV Shows change over time.
