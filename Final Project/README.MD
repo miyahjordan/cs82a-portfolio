@@ -1,4 +1,4 @@
-<h1 align= 'center'> <b> Netflix Movie & TV Show Duration Over Time </b></h1>
+<h1> <b> Netflix Movie & TV Show Duration Over Time </b></h1>
 
 <h3 align= 'center'> Problem Statement </h3>
 Netflix is a popular media and video streaming platform. The platform is home to over a combined 8,000 movies and TV shows, video games on mobile devices based on their properties, and has a global audience of over 200 million subscribers. With this data set, I wanted to see two things.
