@@ -10,18 +10,18 @@ Netflix is a popular media and video streaming platform. The platform is home to
 Listings of all the movies and TV shows available on Netflix as of 2021. Created by Shivam Bansai on Kaggle (https://www.kaggle.com/datasets/shivamb/netflix-shows).
 
 <br> Columns (12):
-<br> show id - Unique ID for every Movie / TV Show
-<br> type - Identifier - A Movie or TV Show
-<br> title - Title of the Movie / TV Show
-<br> director - Director of the Movie
-<br> cast - Actors involved in the movie / show
-<br> country - Country where the movie / show was produced
-<br> date added - Date it was added on Netflix
-<br> release year - Actual Release year of the move / show
-<br> rating - TV Rating of the movie / show 
-<br> duration - Total Duration - in minutes or number of seasons
-<br> listed in - Genre
-<br> description - The summary description
+<br> show id - Unique ID for every Movie / TV Show (string)
+<br> type - Identifier - A Movie or TV Show (string)
+<br> title - Title of the Movie / TV Show (string)
+<br> director - Director of the Movie (string) NOTE: missing 2,634 values
+<br> cast - Actors involved in the movie / show (string) NOTE: missing 825 values
+<br> country - Country where the movie / show was produced (string) NOTE: missing 831 values
+<br> date added - Date it was added on Netflix (string) NOTE: When looking on Kaggle, it says this column is formatted as a date but upon importing, it is listed as a string. Missing 10 values
+<br> release year - Actual Release year of the move / show (integer)
+<br> rating - TV Rating of the movie / show (string) NOTE: missing 4 values
+<br> duration - Total Duration - in minutes or number of seasons (string) NOTE: 3 values
+<br> listed in - Genre (string)
+<br> description - The summary description (string)
 
 <h3 align= 'center'> Cleaning Steps </h3>
 
