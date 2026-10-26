@@ -32,22 +32,19 @@ Listings of all the movies and TV shows available on Netflix as of 2021. Created
 <br> listed in - Genre of the show/movie (string)
 <br> description - Description of the show/movie (string)
 
-<br>Expected after cleaning: 8790 rows and 15 columns (4,300 rows replaced or removed), 831 values in country column replaced (mode-imputed), 3,459 missing values from the director, cast columns were replaced ('None Stated'), 10 rows dropped, date added column formatted to datetime, 3 new columns named month num added, month name added, and year added created.
+<br>Expected after cleaning: 8790 rows and 15 columns (4,300 were replaced), 831 values in country column replaced (mode-imputed), 3,459 missing values from the director, cast columns were replaced ('None Stated'), 3 new columns named month num added, month name added, and year added created.
 
 <h3 align= 'center'> Cleaning Steps </h3>
 1. Replacing values
   <br> Overall, there were 4,307 missing values in the data. I decided to keep the country, director, and cast columns as that might be useful data. I replaced the missing values in the country column with the most common country in the data, which happened to be the United States. Next, I replaced the director and cast columns with "None Stated", while we will not use these columns for this project, it's important to preserve them because they account for approximately 39% of the data. Removing missing values within these columns would, effectively, butcher my data.
 
-<br> 2. Removing values
-  <br> I dropped the 10 missing values from the date added column, Realistically, there wasn't a viable way for me to replace the data points and since it was such a small size, it make sense to remove them.
-
-<br> 3. Duplicates
+<br> 2. Duplicates
   <br> There isn't any duplicate values in the data!
 
-<br> 4. Changing data types
+<br> 3. Changing data types
   <br> The date added was stored as a string (or object) type, which means it needed to be changed. Additionally, there were rows that had trailing and leading spaces within the column. This column needed to be cleaned because it is the basis of my analysis, and needed to be formatted correctly. All trailing and leading spaces were removed and the dates were formatted into numeric forms of month - day - year.
 
-<br> 5. Adding columns
+<br> 4. Adding columns
   <br> I added month_num_added (the month added as a number), month_name_added (the month in string format), and year_added columns to have an easier breakdown of change over time and to have a more in depth analysis if needed.
 
 <h3 align= 'center'> Findings </h3>
