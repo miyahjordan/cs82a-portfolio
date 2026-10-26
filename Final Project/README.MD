@@ -1,5 +1,14 @@
 <h1 align = 'center'> <b> Netflix Movie & TV Show Duration Over Time </b></h1>
 
+<h2 align = 'center'> Table of Contents </h2>
+<p align='center'>
+<a href= 'https://github.com/miyahjordan/cs82a-portfolio/blob/main/Final%20Project/README.MD#-problem-statement-'> 1. Problem Statement </a>
+<a href= 'https://github.com/miyahjordan/cs82a-portfolio/blob/main/Final%20Project/README.MD#-data-dictionary-'><br> 2. Data Dictionary </a>
+<a href= 'https://github.com/miyahjordan/cs82a-portfolio/blob/main/Final%20Project/README.MD#-cleaning-steps-'><br> 3. Cleaning Steps </a>
+<a href= 'https://github.com/miyahjordan/cs82a-portfolio/blob/main/Final%20Project/README.MD#-findings-'><br> 4. Findings </a>
+<a href= 'https://github.com/miyahjordan/cs82a-portfolio/blob/main/Final%20Project/README.MD#-so-what-'><br> 5. So What? </a>
+</p>
+
 <h3 align= 'center'> Problem Statement </h3>
 Netflix is a popular media and video streaming platform. The platform is home to over a combined 8,000 movies and TV shows, video games on mobile devices based on their properties, and has a global audience of over 200 million subscribers. With this data set, I wanted to see two things.
 
