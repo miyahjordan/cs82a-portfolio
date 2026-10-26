@@ -6,7 +6,7 @@ Netflix is a popular media and video streaming platform. The platform is home to
 <br> 2. How the duration of movies and TV Shows change over time.
 
 <h3 align= 'center'> Data Dictionary </h3>
-<br> netflix_titles.csv - Data Dictionary
+<p align = 'center'> <br> netflix_titles.csv - Data Dictionary
 <br> Listings of all the movies and TV shows available on Netflix as of 2021. Created by Shivam Bansai on Kaggle (https://www.kaggle.com/datasets/shivamb/netflix-shows).
 <br> Columns (12):
 <br> show_id - Unique ID for every Movie / TV Show
@@ -20,7 +20,7 @@ Netflix is a popular media and video streaming platform. The platform is home to
 <br> rating - TV Rating of the movie / show 
 <br> duration - Total Duration - in minutes or number of seasons
 <br> listed in - Genre
-<br> description - The summary description
+<br> description - The summary description </p>
 
 <h3 align= 'center'> Cleaning Steps </h3>
 
